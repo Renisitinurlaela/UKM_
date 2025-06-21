@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nama": "Jersey UKM Basket",
+    "deskripsi": "Jersey eksklusif dengan bahan dry-fit.",
+    "harga": "150000",
+    "gambar": "/produk/jersey.jpg"
+  },
+  {
+    "id": "2",
+    "nama": "Bola Basket UKM",
+    "deskripsi": "Bola basket standar pertandingan dengan logo UKM.",
+    "harga": "250000",
+    "gambar": "/produk/bola.jpg"
+  },
+  {
+    "id": "1750404796103",
+    "nama": " Sepatu",
+    "harga": "500000",
+    "gambar": "/produk/sepatu.jpg",
+    "deskripsi": "sepatu basket nyaman dipakai"
+  },
+  {
+    "id": "1750481914554",
+    "nama": "Gantungan Kunci",
+    "harga": "5000",
+    "gambar": "/produk/gantungan.jpg",
+    "deskripsi": "Biar Kunci Gak Ilang"
+  }
+]

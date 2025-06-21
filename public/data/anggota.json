@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nama": "Reni Siti Nurlaela",
+    "nim": "232505043",
+    "angkatan": 2023,
+    "jabatan": "Anggota"
+  },
+  {
+    "id": 2,
+    "nama": "Nadya Putri",
+    "nim": "220102",
+    "angkatan": 2023,
+    "jabatan": "Sekretaris"
+  },
+  {
+    "id": 3,
+    "nama": "Rafi Maulana",
+    "nim": "220103",
+    "angkatan": 2022,
+    "jabatan": "Anggota"
+  }
+]

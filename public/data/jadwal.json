@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "hari": "Sabtu",
+    "jam": "16:00",
+    "tempat": "Lapangan Kampus Masoem Univerity"
+  },
+  {
+    "id": 2,
+    "hari": "Rabu",
+    "jam": "17:00",
+    "tempat": "Lapangan B"
+  }
+]
